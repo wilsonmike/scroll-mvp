@@ -34,7 +34,7 @@ const Sidebar = () => {
       className="text-[#d9d9d9] flex items-center justify-center mt-auto hoverAnimation xl:ml-auto"
     >
       <img
-        src=""
+        src="https://lh3.googleusercontent.com/a/AATXAJwCsuneWAkKlHwMPx0mLNjFACEvbtN8QPwbUsZ-=s96-c"
         alt=""
         className="h-10 w-10 rounded-full xl:mr-2.5"
       />
